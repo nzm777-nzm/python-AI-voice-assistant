@@ -66,5 +66,4 @@ voice_assistant/
 
 
 
-[![GitHub](https://img.shields.io/badge/GitHub-nzm--777-black?logo=github)](https://github.com/nzm-777)
 
