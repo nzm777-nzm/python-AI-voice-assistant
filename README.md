@@ -64,12 +64,7 @@ voice_assistant/
 ├── requirements.txt
 └── README.md
 
-💡 Future Improvements
 
-Add AI chatbot replies using OpenAI or Gemini API
 
-Integrate system app controls (open VS Code, Calculator, etc.)
+[![GitHub](https://img.shields.io/badge/GitHub-nzm--777-black?logo=github)](https://github.com/nzm-777)
 
-Add music playback and weather updates
-
-Create a GUI using Tkinter or PyQt
