@@ -25,7 +25,7 @@ Designed as a beginner-friendly mini project to explore voice recognition, text-
 
 ⚙️ Installation
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/voice-ai-assistant.git
+git clone https://github.com/nzm777-nzm/python-AI-voice-assistant.git
 cd voice-ai-assistant
 
 2️⃣ Create a Virtual Environment
